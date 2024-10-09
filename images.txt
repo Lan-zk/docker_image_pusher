@@ -1,1 +1,1 @@
-postgres:15
+docker.io/library/postgresql:15
