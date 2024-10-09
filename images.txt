@@ -1,1 +1,1 @@
-docker.io/library/postgresql:15
+bitnami/postgresql:15
