@@ -1,2 +1,4 @@
-nocodb/nocodb:latest
-postgres:16.6
+docker.getcollate.io/openmetadata/db:1.7.0
+docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+docker.getcollate.io/openmetadata/server:1.7.0
+docker.getcollate.io/openmetadata/ingestion:1.7.0
