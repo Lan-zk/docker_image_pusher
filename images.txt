@@ -1,3 +1,4 @@
-redis:7
-postgres:16
-apachesuperset.docker.scarf.sh/apache/superset:5.0.0
+mysql/mysql-server:latest
+postgres:15
+docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+opensearchproject/opensearch:latest
