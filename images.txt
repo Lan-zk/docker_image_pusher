@@ -1,4 +1,1 @@
-mysql/mysql-server:latest
-postgres:15
-docker.elastic.co/elasticsearch/elasticsearch:8.11.4
-opensearchproject/opensearch:latest
+docker.getcollate.io/openmetadata/server:1.10.3
