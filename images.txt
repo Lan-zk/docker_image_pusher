@@ -1,4 +1,3 @@
-tabulario/spark-iceberg
 apache/iceberg-rest-fixture
 minio/minio
 minio/mc
