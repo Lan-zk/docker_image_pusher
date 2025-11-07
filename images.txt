@@ -1,1 +1,1 @@
-docker.getcollate.io/openmetadata/db:1.10.3
+dataease/sqlbot
